@@ -3,4 +3,4 @@
 
 ### Aquí podrás encontrar todo el código que estoy aprendiendo y proyectos en los que estoy trabajando con mucha ilusión.
 
-![](https://wallhere.com/es/wallpaper/1222576)
+![](https://www.peakpx.com/es/hd-wallpaper-desktop-agwsn)
