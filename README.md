@@ -15,5 +15,6 @@
 
 
 ### Contact
-[![Linkedin Badge](https://img.shields.io/badge/-VeroP.S-blue?style=flat- square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vero-p-s-81753a180/)](https://www.linkedin.com/in/vero-p-s-81753a180/)
+[![Linkedin Badge](https://img.shields.io/badge/-VeroP.S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vero-p-s/)](https://www.linkedin.com/in/vero-p-s/)
+
 [![Gmail Badgel](https://img.shields.io/badge/-kozita_peke@hotmail.com-14438?style=flat-square&logoColor=white&link=mailto:kozita_peke@hotmail.com)](mailto:kozita_peke@hotmail.com)
